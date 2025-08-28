@@ -59,7 +59,7 @@ classifiers = [
     "Topic :: Software Development :: Libraries :: Application Frameworks",
     "Topic :: Software Development :: User Interfaces",
 ]
-requires-python = ">=3.8, <3.11"
+requires-python = ">=3.9, <3.13"
 dependencies = [
     "cycler>=0.10.0",
     "entrypoints>=0.3",
